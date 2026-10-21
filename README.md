@@ -67,11 +67,11 @@ These are preliminary findings. Overall channel ROAS, calculated as total revenu
 
 ## Project Files
 
-- `01_marketing_campaign_analysis.R` — R script for data analysis.
-- `roas_by_channel.png` — Marketing channel ROAS visualization.
-- `channel_roas_results.csv` — Channel-level revenue, spend, and ROAS.
-- `campaign_revenue_results.csv` — Revenue totals by campaign.
-- `marketing_analysis_results.csv` — Dataset with calculated metrics.
+- R script for data analysis. [Marketing Campaign Analysis](https://github.com/TarikArcher/Marketing_Campaign_Analysis_R/blob/main/campaign_revenue_results.csv)
+- Marketing channel ROAS visualization. [Roas By Channel](https://github.com/TarikArcher/Marketing_Campaign_Analysis_R/blob/main/roas_by_channel.png)
+- Channel-level revenue, spend, and ROAS. [channel_roas_results.csv](https://github.com/TarikArcher/Marketing_Campaign_Analysis_R/blob/main/channel_roas_results.csv)
+- Revenue totals by campaign. [Campaign_Revenue_Results.csv](https://github.com/TarikArcher/Marketing_Campaign_Analysis_R/blob/main/campaign_revenue_results.csv)
+- Dataset with calculated metrics. [Marketing_Analysis_Results.csv](https://github.com/TarikArcher/Marketing_Campaign_Analysis_R/blob/main/campaign_revenue_results.csv)
 
 ## Limitations
 
